@@ -5,8 +5,8 @@
  * 
  * Class: SQLPrepared
  * Classe responsável por gerar uma uma linguagem de consulta estruturada(SQL) para lidar com banco de dados relacional.
- * ATENÇÃO: esta classe não faz nenhuma consulta diretamente ao banco de dados, ela somente preparada a linguagem de consulta 
- * estruturada(SQL) e retorna uma String SQL de acordo com cada metodo.
+ * ATENÇÃO: esta classe não faz nenhuma consulta diretamente ao banco de dados, ela somente preparada a Linguagem de Consulta 
+ * Estruturada(SQL) e retorna uma String de acordo com cada função.
  */
 package prepared.sql;
 
